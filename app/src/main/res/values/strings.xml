@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sponge</string>
+    <string name="text_heading">ENTER TEXT HERE</string>
+    <string name="button_process">sPOnGe mY tExT!</string>
+    <array name="upper_vowels">
+        <item>"a"</item>
+        <item>"e"</item>
+        <item>"o"</item>
+        <item>"u"</item>
+    </array>
+    <array name="lower_vowels">
+
+        <item>"i"</item>
+
+    </array>
+</resources>
